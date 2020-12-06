@@ -6,5 +6,5 @@ def oxford_comma(array)
   when array.size == 2 
     array.join(" and ")
     break
-  
+end
 end
