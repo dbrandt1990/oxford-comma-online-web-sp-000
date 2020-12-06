@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  case 
+  case array
   when array.szie == 1
     array.join(" ")
     break
